@@ -1,3 +1,3 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxzimmerma)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxzimmerman&layout=compact&langs_count=8&hide=html,css)
 
 
