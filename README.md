@@ -1,7 +1,6 @@
 <div align="center">
 
-![Stats](https://github-readme-stats-sage-eight-36.vercel.app/api?username=Maxzimmerman&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
-
+![Stats](https://github-readme-stats-sage-eight-36.vercel.app/api?username=Maxzimmerman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
 &nbsp;
 ![Top Languages](https://github-readme-stats-sage-eight-36.vercel.app/api/top-langs/?username=Maxzimmerman&layout=compact&langs_count=4&theme=tokyonight&hide=batchfile,cmake,just,makefile,php,c%2B%2B,swift,dockerfile,c++,scss,less,erlang,html,css,javascript,c%23&border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
