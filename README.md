@@ -62,14 +62,6 @@ a [DNS server](https://github.com/Maxzimmerman/dns-server-elixir), a
 
 ## 📊 GitHub Stats
 
-<div>
-
-![Stats](https://github-readme-stats-sage-eight-36.vercel.app/api?username=Maxzimmerman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
-&nbsp;
-![Top Languages](https://github-readme-stats-sage-eight-36.vercel.app/api/top-langs/?username=Maxzimmerman&layout=compact&langs_count=4&theme=tokyonight&hide=c%2B%2B,c%23&border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![Streak
-
   <div>
 
   ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
