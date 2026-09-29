@@ -1,17 +1,10 @@
-<div align="center">
+
 
 # Hi, I'm Max 👋
 
 ### Full-stack Software Engineer @ [Yojee](https://yojee.com) — building logistics & supply-chain SaaS
 
 🇩🇪 → 🇦🇺 → 🇸🇬 &nbsp;·&nbsp; Elixir · OTP · the BEAM &nbsp;·&nbsp; based in Singapore
-
-<a href="https://www.linkedin.com/in/max-zimmermann-939592281">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Maxzimmerman&style=for-the-badge&color=58a6ff&label=Profile+Views" alt="Profile views" />
-
-</div>
 
 ---
 
