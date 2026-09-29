@@ -1,17 +1,15 @@
 ### Full-stack Software Engineer [Yojee](https://yojee.com) building logistics & supply-chain SaaS based in Singapore
 
-## 👨‍💻 About me
-
-I work end-to-end on **MOSAIC**, Yojee's platform for freight forwarding and customs — the kind of
+I work end-to-end on **MOSAIC**, Yojee's platform for freight forwarding and customs the kind of
 system where reliability and concurrency genuinely matter. On a good day that means reasoning about
 the API, data model and UI as one thing and owning a feature from database to screen.
 
 Lately a lot of my work sits closer to the data and the pipes:
 
-- ⚙️ **Data pipelines on AWS** — **SQS** + **Elixir Broadway** for ingesting and processing streams concurrently
-- 🏗️ A bit of **data-warehouse engineering** — modelling and moving data for analytics
-- ☸️ Running and reasoning about **production environments on Kubernetes**
-- 🔀 The unglamorous-but-critical stuff: **safely shipping migrations to production**, sequencing
+- **Data pipelines on AWS** — **SQS** + **Elixir Broadway** for ingesting and processing streams concurrently
+- **data-warehouse engineering** — modelling and moving data for analytics
+- Running and reasoning about **production environments on Kubernetes**
+- The unglamorous-but-critical stuff: **safely shipping migrations to production**, sequencing
   PRs so schema and code land in the right order, and **zero-downtime data migrations with dual writes**
 
 I started out in Frankfurt shipping Python/Django web apps, then swapped continents and stacks in the
