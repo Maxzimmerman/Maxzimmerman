@@ -5,12 +5,10 @@
 ![Top Languages](https://github-readme-stats-sage-eight-36.vercel.app/api/top-langs/?username=Maxzimmerman&layout=compact&langs_count=4&theme=tokyonight&hide=c%2B%2B,html,css,c%23,scss,less,javaScript&border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 </div>
 
-### Hi, I'm Max 👋
-
-**Full-stack Software Engineer @ [Yojee](https://yojee.com)** — building logistics & supply-chain SaaS.
+**Full-stack Software Engineer @ [Yojee](https://yojee.com)** building logistics & supply-chain SaaS.
 Elixir · Phoenix · TypeScript · React · PostgreSQL 🇩🇪 → 🇦🇺 → 🇸🇬
 
-I work end-to-end on **MOSAIC**, Yojee's platform for freight forwarding and customs — the kind of
+I work end-to-end on **MOSAIC**, Yojee's platform for freight forwarding and customs the kind of
 system where reliability and concurrency genuinely matter. On a good day that means reasoning about
 the API, data model and UI as one thing and owning a feature from database to screen.
 
