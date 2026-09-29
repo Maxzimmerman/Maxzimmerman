@@ -1,25 +1,4 @@
-[LinkedIn](https://www.linkedin.com/in/max-zimmermann-939592281) · 📍 Based in Singapore
-
-Notes on choices:
-- I phrased data-warehouse work as "a bit of" so it reads honest rather than as a specialty — matches how you described it.
-- Dual writes and migration sequencing are genuinely senior-signaling topics; leading with them (even as a "junior") reads well because most people avoid that work. Kept it grounded in what you actually do.
-- Added Broadway to the tech list since it's now a real differentiator on your profile.
-
-Want me to now:
-1. Center it and add shield/badge rows to match your tokyonight cards, then stitch the stats + top-langs cards underneath — i.e. hand you the complete README?
-2. Or leave it as this clean left-aligned block?
-
-If you paste your current full README.md (or just say "build the whole thing"), I'll assemble the finished file end to end.
-
-✻ Sautéed for 20s
-
-❯ yes 1
-
-I'll build the complete README file for you.
-
-⏺ Write(/private/tmp/claude-501/-Users-max/49fa9e52-17f0-4acc-ad38-30025a877ab7/scratchpad/README.md)
-Wrote 73 lines to ../../private/tmp/claude-501/-Users-max/49fa9e52-17f0-4acc-ad38-30025a877ab7/scratchpad/README.md
-<div>
+<div align="center">
 
 # Hi, I'm Max 👋
 
