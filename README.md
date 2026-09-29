@@ -6,7 +6,7 @@ the API, data model and UI as one thing and owning a feature from database to sc
 
 Lately a lot of my work sits closer to the data and the pipes:
 
-- **Data pipelines on AWS** **SQS** + **Elixir Broadway** for ingesting and processing streams concurrently
+- **Data pipelines on AWS** **SQS** + **Elixir Broadway** for ingesting and processing streams concurrently handling backpressure
 - **data-warehouse engineering** modelling and moving data for analytics
 - Tracing data flows, chasing down bugs and debugging incidents across **production** using **Datadog**
 - Running and reasoning about **production environments on Kubernetes**
@@ -19,7 +19,7 @@ and supervision trees turned out to be exactly what I enjoy building on.
 
 <div align="center">
 <img src="https://github-readme-stats-sage-eight-36.vercel.app/api?username=Maxzimmerman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="165" alt="Stats" />
-<img src="https://github-readme-stats-sage-eight-36.vercel.app/api/top-langs/?username=Maxzimmerman&layout=compact&langs_count=4&theme=tokyonight&hide=c%2B%2B,c%23&border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats-sage-eight-36.vercel.app/api/top-langs/?username=Maxzimmerman&layout=compact&langs_count=4&theme=tokyonight&hide=c%2B%2B,c%23,javaScript,css,html,less&border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Top Languages" />
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maxzimmerman&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
