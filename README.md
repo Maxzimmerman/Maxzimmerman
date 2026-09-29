@@ -54,12 +54,6 @@ I started out in Frankfurt shipping Python/Django web apps, then swapped contine
 same year to join Yojee and go all-in on **Elixir, OTP and the BEAM**. Immutability, pattern matching
 and supervision trees turned out to be exactly what I enjoy building on.
 
-🌱 I learn by building hard things from scratch — a [Redis clone](https://github.com/Maxzimmerman/redis),
-a [DNS server](https://github.com/Maxzimmerman/dns-server-elixir), a
-[shell](https://github.com/Maxzimmerman/codecrafters-shell-elixir), and graph algorithms in raw Elixir.
-
----
-
 ## 📊 GitHub Stats
 
   <div>
