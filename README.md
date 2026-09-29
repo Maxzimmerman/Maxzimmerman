@@ -6,8 +6,8 @@ the API, data model and UI as one thing and owning a feature from database to sc
 
 Lately a lot of my work sits closer to the data and the pipes:
 
-- **Data pipelines on AWS** — **SQS** + **Elixir Broadway** for ingesting and processing streams concurrently
-- **data-warehouse engineering** — modelling and moving data for analytics
+- **Data pipelines on AWS** **SQS** + **Elixir Broadway** for ingesting and processing streams concurrently
+- **data-warehouse engineering** modelling and moving data for analytics
 - Running and reasoning about **production environments on Kubernetes**
 - The unglamorous-but-critical stuff: **safely shipping migrations to production**, sequencing
   PRs so schema and code land in the right order, and **zero-downtime data migrations with dual writes**
