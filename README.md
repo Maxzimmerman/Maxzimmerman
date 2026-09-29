@@ -8,6 +8,7 @@ Lately a lot of my work sits closer to the data and the pipes:
 
 - **Data pipelines on AWS** **SQS** + **Elixir Broadway** for ingesting and processing streams concurrently
 - **data-warehouse engineering** modelling and moving data for analytics
+- Tracing data flows, chasing down bugs and debugging incidents across **production** using **Datadog**
 - Running and reasoning about **production environments on Kubernetes**
 - The unglamorous-but-critical stuff: **safely shipping migrations to production**, sequencing
   PRs so schema and code land in the right order, and **zero-downtime data migrations with dual writes**
