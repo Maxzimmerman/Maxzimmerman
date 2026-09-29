@@ -16,7 +16,8 @@ I started out in Frankfurt shipping Python/Django web apps, then swapped contine
 same year to join Yojee and go all-in on **Elixir, OTP and the BEAM**. Immutability, pattern matching
 and supervision trees turned out to be exactly what I enjoy building on.
 
-## 📊 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats-sage-eight-36.vercel.app/api?username=Maxzimmerman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="165" alt="Stats" />
 <img src="https://github-readme-stats-sage-eight-36.vercel.app/api/top-langs/?username=Maxzimmerman&layout=compact&langs_count=4&theme=tokyonight&hide=c%2B%2B,c%23&border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Top Languages" />
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maxzimmerman&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
