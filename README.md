@@ -62,7 +62,7 @@ a [DNS server](https://github.com/Maxzimmerman/dns-server-elixir), a
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
 
 ![Stats](https://github-readme-stats-sage-eight-36.vercel.app/api?username=Maxzimmerman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
 &nbsp;
@@ -70,7 +70,7 @@ a [DNS server](https://github.com/Maxzimmerman/dns-server-elixir), a
 
 ![Streak
 
-  <div align="center">
+  <div>
 
   ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
   ![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white)
