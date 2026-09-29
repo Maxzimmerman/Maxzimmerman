@@ -1,8 +1,4 @@
-
-
-# Hi, I'm Max 👋
-
-### Full-stack Software Engineer [Yojee](https://yojee.com) — building logistics & supply-chain SaaS based in Singapore
+### Full-stack Software Engineer [Yojee](https://yojee.com) building logistics & supply-chain SaaS based in Singapore
 
 ## 👨‍💻 About me
 
