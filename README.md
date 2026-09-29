@@ -1,4 +1,4 @@
- [LinkedIn](https://www.linkedin.com/in/max-zimmermann-939592281) · 📍 Based in Singapore
+[LinkedIn](https://www.linkedin.com/in/max-zimmermann-939592281) · 📍 Based in Singapore
 
 Notes on choices:
 - I phrased data-warehouse work as "a bit of" so it reads honest rather than as a specialty — matches how you described it.
@@ -19,7 +19,7 @@ I'll build the complete README file for you.
 
 ⏺ Write(/private/tmp/claude-501/-Users-max/49fa9e52-17f0-4acc-ad38-30025a877ab7/scratchpad/README.md)
 Wrote 73 lines to ../../private/tmp/claude-501/-Users-max/49fa9e52-17f0-4acc-ad38-30025a877ab7/scratchpad/README.md
-<div align="center">
+<div>
 
 # Hi, I'm Max 👋
 
