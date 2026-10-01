@@ -19,7 +19,7 @@ and supervision trees turned out to be exactly what I enjoy building on.
 
 <div align="center">
 <img src="https://github-readme-stats-sage-eight-36.vercel.app/api?username=Maxzimmerman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="165" alt="Stats" />
-<img src="https://github-readme-stats-sage-eight-36.vercel.app/api/top-langs/?username=Maxzimmerman&layout=compact&langs_count=8&theme=tokyonight&hide=c%2B%2B,c%23,javaScript,css,html,scss,less,erlang,shell,lua,Dockerfile&border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats-sage-eight-36.vercel.app/api/top-langs/?username=Maxzimmerman&layout=compact&langs_count=6&theme=tokyonight&hide=c%2B%2B,c%23,javaScript,css,html,scss,less,erlang,shell,lua,Dockerfile&border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Top Languages" />
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maxzimmerman&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
